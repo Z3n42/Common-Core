@@ -77,34 +77,33 @@ The 42 curriculum is organized in **concentric circles** (ranks), with each circ
                                │ ft_transcendence │
                                └────────┬─────────┘
                                         │
-                         ┌──────────────▼──────────────┐
-                         │        Circle 05            │
-                         │  Inception • Webserv        │
-                         │  CPP Modules 05-09          │
-                         └──────────┬──────────────────┘
+                         ┌──────────────▼────────┐
+                         │        Circle 05      │
+                         │  Inception • Webserv  │
+                         │  CPP Modules 05-09    │
+                         └──────────┬────────────┘
                                     │
-                     ┌──────────────▼──────────────┐
-                     │       Circle 04             │
-                     │  Cub3D • NetPractice        │
-                     └──────────┬──────────────────┘
+                     ┌──────────────▼────────┐
+                     │       Circle 04       │
+                     │  Cub3D • NetPractice  | 
+                     │  CPP Modules 05-09    |
+                     └──────────┬────────────┘
                                 │
-                 ┌──────────────▼──────────────┐
-                 │       Circle 03             │
-                 │  Philosophers • Minishell   │
-                 │  CPP Modules 00-04          │
-                 └──────────┬──────────────────┘
+                 ┌──────────────▼─────────────┐
+                 │       Circle 03            │
+                 │  Philosophers • Minishell  │
+                 └──────────┬─────────────────┘
                             │
-         ┌──────────────────▼──────────────────┐
-         │           Circle 02                 │
-         │  Push_swap • Minitalk • FdF         │
-         │  Born2beRoot                        │
-         └──────────┬──────────────────────────┘
+         ┌──────────────────▼────────────┐
+         │           Circle 02           │
+         │  Push_swap • Minitalk • FdF   │
+         └──────────┬────────────────────┘
                     │
-     ┌──────────────▼──────────────────┐
-     │         Circle 01                │
-     │  ft_printf • get_next_line       │
-     │  Born2beRoot                     │
-     └──────────┬───────────────────────┘
+     ┌──────────────▼──────────────┐
+     │         Circle 01           │
+     │  ft_printf • get_next_line  │
+     │       Born2beRoot           │
+     └──────────┬──────────────────┘
                 │
          ┌──────▼──────┐
          │  Circle 00  │
@@ -182,7 +181,6 @@ Students are **self-directed**:
 <td width="100%" valign="top">
 
 #### [Libft](https://github.com/Z3n42/42_libft)
-**Score**: 125/100 (with bonus)
 
 Your first C library
 
@@ -207,7 +205,6 @@ Your first C library
 <td width="33%" valign="top">
 
 #### [ft_printf](https://github.com/Z3n42/ft_printf)
-**Score**: 100/100
 
 Recreate printf()
 
@@ -223,7 +220,6 @@ Recreate printf()
 <td width="33%" valign="top">
 
 #### [get_next_line](https://github.com/Z3n42/get_next_line)
-**Score**: 125/100 (with bonus)
 
 Read line by line
 
@@ -239,7 +235,6 @@ Read line by line
 <td width="33%" valign="top">
 
 #### [Born2beRoot](https://github.com/Z3n42/born_to_be_root)
-**Score**: 110/100
 
 System administration
 
@@ -264,7 +259,7 @@ System administration
 <td width="25%" valign="top">
 
 #### [Push_swap](https://github.com/Z3n42/Push_Swap)
-**Score**: 100/100
+
 
 Sorting algorithm
 
@@ -280,7 +275,6 @@ Sorting algorithm
 <td width="25%" valign="top">
 
 #### [Minitalk](https://github.com/Z3n42/Minitalk)
-**Score**: 125/100
 
 Client-server communication
 
@@ -296,7 +290,6 @@ Client-server communication
 <td width="25%" valign="top">
 
 #### [FdF](https://github.com/Z3n42/fdf)
-**Score**: 125/100
 
 3D wireframe viewer
 
@@ -319,7 +312,6 @@ Client-server communication
 <td width="50%" valign="top">
 
 #### [Philosophers](https://github.com/Z3n42/Philosophers)
-**Score**: 100/100
 
 Dining philosophers problem
 
@@ -335,7 +327,6 @@ Dining philosophers problem
 <td width="50%" valign="top">
 
 #### [Minishell](https://github.com/Z3n42/Minishell)
-**Score**: 100/100
 
 Bash-like shell implementation
 
@@ -358,7 +349,6 @@ Bash-like shell implementation
 <td width="33%" valign="top">
 
 #### [Cub3D](https://github.com/Z3n42/Cub3D)
-**Score**: 125/100
 
 Raycasting 3D game
 
@@ -374,7 +364,6 @@ Raycasting 3D game
 <td width="33%" valign="top">
 
 #### [NetPractice](https://github.com/Z3n42/Net_Practice)
-**Score**: 100/100
 
 TCP/IP networking
 
@@ -391,7 +380,6 @@ TCP/IP networking
 <td width="33%" valign="top">
 
 #### [CPP Modules 00-04](https://github.com/Z3n42/CPP_1)
-**Score**: 100/100
 
 C++ fundamentals
 
@@ -417,7 +405,6 @@ C++ fundamentals
 <td width="33%" valign="top">
 
 #### [Inception](https://github.com/Z3n42/Inception)
-**Score**: 100/100
 
 Docker infrastructure
 
@@ -433,7 +420,6 @@ Docker infrastructure
 <td width="33%" valign="top">
 
 #### [Webserv](https://github.com/Z3n42/Webserv)
-**Score**: 100/100
 
 HTTP/1.1 server
 
@@ -449,7 +435,6 @@ HTTP/1.1 server
 <td width="33%" valign="top">
 
 #### [CPP Modules 05-09](https://github.com/Z3n42/CPP_2)
-**Score**: 100/100
 
 Advanced C++
 
@@ -474,7 +459,6 @@ Advanced C++
 <td width="100%" valign="top">
 
 #### [ft_transcendence](https://github.com/Z3n42/ft_transcendence)
-**Score**: 100/100
 
 Full-stack web application
 
@@ -485,7 +469,7 @@ Full-stack web application
 - Docker orchestration
 - PostgreSQL database
 
-**Team**: 3 developers
+**Team**: 5 developers
 
 </td>
 </tr>
