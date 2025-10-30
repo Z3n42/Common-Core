@@ -460,14 +460,19 @@ Advanced C++
 
 #### [ft_transcendence](https://github.com/Z3n42/ft_transcendence)
 
-Full-stack web application
+**Surprise.**  
+Real-time multiplayer Pong platform
 
 **Skills**:
-- Django REST API
-- Angular frontend
-- Real-time communication
-- Docker orchestration
-- PostgreSQL database
+- Django REST API + Channels
+- Angular 17 frontend
+- WebSocket communication
+- Docker orchestration (16 services)
+- PostgreSQL + Redis
+- ELK Stack observability
+- Prometheus + Grafana metrics
+
+**Stack**: Django, Angular, PostgreSQL, Redis, Elasticsearch, Logstash, Kibana, Prometheus, Grafana
 
 **Team**: 5 developers
 
